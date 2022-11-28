@@ -1,0 +1,7 @@
+C:\Users\Karim\Downloads\SDK.Client-master\Dark5.SDK.Client-master\obj\Debug\Dark5.SDK.Client.csproj.AssemblyReference.cache
+C:\Users\Karim\Downloads\SDK.Client-master\Dark5.SDK.Client-master\obj\Debug\Dark5.SDK.Client.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Client-master\obj\Debug\Dark5.SDK.Client.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Client-master\bin\Debug\Dark5.SDK.Client.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Client-master\bin\Debug\Dark5.SDK.Core.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Client-master\obj\Debug\Dark5.SDK.Client.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Client-master\obj\Debug\Dark5.SDK.Client.net.dll
